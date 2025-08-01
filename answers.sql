@@ -1,6 +1,6 @@
 -- Question 1: Write an SQL query to create a new database called salesDB.
 
-CREATE DATABASE salesDBgit;
+CREATE DATABASE salesDB;
 CREATE DATABASE demo;
 
 -- Question 2: Write an SQL query to drop (delete) the database called demo.
